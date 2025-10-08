@@ -1,0 +1,8 @@
+[
+    {
+        "entity_type": "Case",
+        "entity_id": 123,
+        "message": "New email received on Case 123",
+        "timestamp": "2025-10-07T21:24:58.178673"
+    }
+]
